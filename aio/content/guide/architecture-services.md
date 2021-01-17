@@ -7,11 +7,10 @@
 אנגולר מחלק בין קומפוננטות לשירותים בשביל להגדיל את המודולריות ואת האפשרות לשימוש חוזר.
 בשל הפרדת הקומפוננטה המיועדת לתצוגה משאר סוגי החישובים, מחלקות קומפוננטה שתיצור יהיו רזות ויעילות. 
 
-
-Ideally, a component's job is to enable the user experience and nothing more.
-A component should present properties and methods for data binding,
-in order to mediate between the view (rendered by the template)
-and the application logic (which often includes some notion of a *model*).
+בעיקרון, תפקידה של קומפוננטה הוא לאפשר את חווית המשתמש ותו לא.
+על רכיב להציג תכונות ופונקציות עבור הנגשת המידע,
+על מנת לתווך בין התצוגה (המוזרקת לתוך התבנית)
+והמודל הלוגי של האפליקציה (שלעיתים כולל גם את מודל הנתונים).
 
 A component can delegate certain tasks to services, such as fetching data from the server,
 validating user input, or logging directly to the console.
