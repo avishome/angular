@@ -1,12 +1,12 @@
-# Introduction to services and dependency injection
+# מבוא לשירותים והזרקת תלויות
 
-*Service* is a broad category encompassing any value, function, or feature that an app needs.
-A service is typically a class with a narrow, well-defined purpose.
-It should do something specific and do it well.
+*שירות* הוא קטגוריה רחבה ומקיפה של כל ערך פונקציה או פיצר שהאפליקציה צריכה.
+שירות, הוא בדר"כ פונקציית חץ למטרה מוגדרת היטב.
+הוא אמור לעשות דבר ספציפי בצורה מעולה.
 
-Angular distinguishes components from services to increase modularity and reusability.
-By separating a component's view-related functionality from other kinds of processing,
-you can make your component classes lean and efficient.
+אנגולר מחלק בין קומפוננטות לשירותים בשביל להגדיל את המודולריות ואת האפשרות לשימוש חוזר.
+בשל הפרדת הקומפוננטה המיועדת לתצוגה משאר סוגי החישובים, מחלקות קומפוננטה שתיצור יהיו רזות ויעילות. 
+
 
 Ideally, a component's job is to enable the user experience and nothing more.
 A component should present properties and methods for data binding,
