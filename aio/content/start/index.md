@@ -1,10 +1,10 @@
-# Getting started with Angular
+# מתחילים לעבוד עם אנגולר
 
-Welcome to Angular!
+ברוכים הבאים לאנגולר!
 
-This tutorial introduces you to the essentials of Angular by walking you through building an e-commerce site with a catalog, shopping cart, and check-out form.
+במדריך הזה, נציג לך את היסודות של אנגולר באמצעות הקמת אתר מסחר הכולל: קטלוג, עגלת קניות וטופס תשלום.
 
-To help you get started right away, this tutorial uses a ready-made application that you can examine and modify interactively on [Stackblitz](https://stackblitz.com/)&mdash;without having to [set up a local work environment](guide/setup-local "Setup guide").
+בכדי שתוכל להתחיל מיד עכשיו, המדריך הזה נעזר באפליקציה שהוכנה מראש, כך שתוכל לבחון את השינויים באופן הִדּוּדִי ב [סטאקבליץ](https://stackblitz.com/)&mdash; בלי שתצטרך [להגדיר את סביבת העבודה](guide/setup-local "Setup guide")&mdash; בעצמך.
 StackBlitz is a browser-based development environment where you can create, save, and share projects using a variety of technologies.
 
 ## Prerequisites
