@@ -4,12 +4,12 @@
 
 במדריך הזה, נציג לך את היסודות של אנגולר באמצעות הקמת אתר מסחר הכולל: קטלוג, עגלת קניות וטופס תשלום.
 
-בכדי שתוכל להתחיל מיד עכשיו, המדריך הזה נעזר באפליקציה שהוכנה מראש, כך שתוכל לבחון את השינויים באופן הִדּוּדִי ב [סטאקבליץ](https://stackblitz.com/)&mdash; בלי שתצטרך [להגדיר את סביבת העבודה](guide/setup-local "Setup guide")&mdash; בעצמך.
-StackBlitz is a browser-based development environment where you can create, save, and share projects using a variety of technologies.
+בכדי שתוכל להתחיל מיד עכשיו, המדריך הזה נעזר באפליקציה שהוכנה מראש, כך שתוכל לבחון את השינויים באופן הִדּוּדִי ב [סטאקבליץ](https://stackblitz.com/)&mdash; בלי שתצטרך [להגדיר את סביבת העבודה](guide/setup-local "Setup guide") בעצמך.
+סטאקבליץ היא פלטפורמת רשת, בה תוכל ליצור, לשמור ולשתף פרוייקטים במגוון טכנולוגיות.
 
-## Prerequisites
+## דרישות קדם
 
-To get the most out of this tutorial you should already have a basic understanding of the following.
+על מנת להפיק את המירב מהמדריך הזה עליך להיות בעל הבנה בסיסית בנושאים הנ"ל.
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML "Learning HTML: Guides and tutorials")
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript")
